@@ -1,0 +1,17 @@
+Customer,default,housing,loan,balance,response
+A,0,0,0,0,NO
+B,0,1,1,1000,NO
+C,0,1,0,0,NO
+D,0,1,1,1000,NO
+E,0,1,0,0,NO
+F,0,0,0,1000,YES
+G,0,1,0,1000,YES
+H,0,1,0,0,NO
+I,0,1,1,0,NO
+J,0,1,0,1000,NO
+K,0,1,0,0,YES
+L,0,1,0,1000,NO
+M,0,0,0,0,YES
+N,0,0,0,1000,YES
+O,0,1,1,0,NO
+P,0,0,1,0,NO
